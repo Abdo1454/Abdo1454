@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am student CS
+I am a Computer Science student with a strong interest in software development. 
+I enjoy solving problems and building projects using C++, JavaScript, and React. 
+Currently focusing on Data Structures & Algorithms and Front-End Development.
 
 
 ## 🌐 Socials:
