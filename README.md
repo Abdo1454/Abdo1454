@@ -33,7 +33,7 @@ Currently focusing on Data Structures & Algorithms and Front-End Development.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo1454&theme=tokyonight&hide_border=true" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo1454&theme=tokyonight&hide_border=true&layout=compact" /> -->
 </p>
-
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Abdo1454&theme=tokyonight&no-frame=true&margin-w=10" /> -->
 ---
 
 
