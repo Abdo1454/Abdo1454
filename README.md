@@ -38,5 +38,3 @@ Currently focusing on Data Structures & Algorithms and Front-End Development.
 <!-- ## 📈 My GitHub Activity -->
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdo1454&theme=react-dark)](https://github.com/Abdo1454)
-
-
