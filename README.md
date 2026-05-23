@@ -38,7 +38,7 @@ Currently focusing on Data Structures & Algorithms and Front-End Development.
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,vite,git,github" alt="My Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c++,react,tailwind,html,css,js,bootstrap,vite,git,github" alt="My Tech Stack" />
 
 </div>
 ## 📊 GitHub Stats:
