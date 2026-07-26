@@ -38,10 +38,20 @@ Currently focused on:
 ---
 ## 💻 Tech Stack
 
-<img
-  src="https://skillicons.dev/icons?i=cpp,php,laravel,mysql,postgresql,typescript,react,tailwind,html,css,js,bootstrap,vite,git,github"
-  alt="My Tech Stack"
-/>
+### 🧠 Core Fundamentals
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,vite" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql" />
+</p>
 ## 📊 GitHub Stats:
 
 <p align="center">
