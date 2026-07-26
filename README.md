@@ -36,14 +36,12 @@ Currently focused on:
 </a>
 
 ---
-
 ## 💻 Tech Stack
-<img 
-  src="https://skillicons.dev/icons?i=cpp,react,tailwind,html,css,js,bootstrap,vite,git,github" 
-  alt="My Tech Stack" 
-/>
 
-</div>
+<img
+  src="https://skillicons.dev/icons?i=cpp,php,laravel,mysql,postgresql,typescript,react,tailwind,html,css,js,bootstrap,vite,git,github"
+  alt="My Tech Stack"
+/>
 ## 📊 GitHub Stats:
 
 <p align="center">
