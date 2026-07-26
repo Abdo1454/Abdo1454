@@ -40,7 +40,7 @@ Currently focused on:
 
 ### 🧠 Core Fundamentals
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,mysql,php,git,github" />
 </p>
 
 ### 🎨 Frontend
