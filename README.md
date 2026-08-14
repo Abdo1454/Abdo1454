@@ -2,36 +2,33 @@
 
 ### 💻 Frontend Developer | React | JavaScript | Problem Solving
 
-Frontend Developer focused on building responsive, interactive, and
-user-friendly web applications using modern JavaScript technologies.
+Frontend Developer focused on building responsive, interactive, and user-friendly web applications with modern JavaScript technologies.
 
-I enjoy turning ideas into clean interfaces, building reusable UI
-components, solving programming problems, and continuously improving
-my software development skills.
+I enjoy turning ideas into clean interfaces, building reusable components, solving programming problems, and continuously improving my software development skills.
 
 ---
 
 ## 💫 About Me
 
 - 💻 Frontend Developer focused on React
-- ⚛️ Building modern and responsive web applications
+- ⚛️ Building responsive and interactive web applications
 - 🧠 Practicing Data Structures & Algorithms
 - 🧩 Improving Problem Solving skills
 - 🎨 Interested in clean UI/UX and reusable components
-- 🚀 Continuously learning and building real-world projects
+- 🚀 Building real-world projects and continuously learning
 
 ### Currently focused on
 
-- ⚛️ Front-End Development
-- 🟨 JavaScript & Modern ES6+
 - ⚛️ React.js
+- 🟨 JavaScript & Modern ES6+
 - 🧠 Data Structures & Algorithms
 - 🧩 Problem Solving
+- 🎨 Responsive UI Development
 - 🔧 Git & GitHub
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -43,17 +40,21 @@ my software development skills.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://abulrahim-elsayed.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧠 Core Fundamentals
+### 🧠 Programming & Fundamentals
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,php,git,github" alt="Core Technologies"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,php" alt="Programming Languages"/>
 
 </p>
 
@@ -61,11 +62,10 @@ my software development skills.
 - Data Structures
 - Algorithms
 - Problem Solving
-- Git & GitHub
 
 ---
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p align="left">
 
@@ -85,7 +85,7 @@ my software development skills.
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 
 <p align="left">
 
@@ -100,45 +100,53 @@ my software development skills.
 
 ---
 
-## 📊 GitHub Stats
+### 🔧 Tools
 
-<p align="center">
+<p align="left">
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=Abdo1454&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Abdo1454 GitHub Stats"
-/>
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdo1454&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Abdo1454 Top Languages"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Abdo1454&theme=tokyonight&hide_border=true"
-  alt="Abdo1454 GitHub Streak"
-/>
-
-</p>
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+### 🛍️ Atrak — Full-Stack E-Commerce Platform
 
-Modern responsive personal portfolio showcasing my skills, projects,
-technologies, and development journey.
+A full-stack perfume e-commerce platform with a modern responsive interface, product browsing, shopping cart, checkout flow, authentication, dashboard functionality, and API integration.
+
+**Built with:**
+
+- React
+- JavaScript
+- Tailwind CSS
+- Laravel
+- PHP
+- MySQL
+- REST API
+
+**Highlights:**
+
+- Product browsing and filtering
+- Shopping cart
+- Authentication
+- Checkout flow
+- Dashboard
+- Responsive UI
+- Arabic & English support
+
+🔗 **Repository:** [Atrak Fullstack](https://github.com/Abdo1454/Atrak-Fullstack)
+
+---
+
+### 🌐 Personal Portfolio
+
+Modern responsive portfolio website showcasing my skills, projects, and development journey.
 
 **Built with:**
 
@@ -154,8 +162,7 @@ technologies, and development journey.
 
 ### 🌤️ Weather App
 
-A responsive weather application that retrieves weather data using
-the Open-Meteo API.
+A responsive weather application that retrieves weather information using the Open-Meteo API.
 
 **Built with:**
 
@@ -164,14 +171,20 @@ the Open-Meteo API.
 - JavaScript
 - Open-Meteo API
 
+**Features:**
+
+- Weather data
+- API integration
+- Responsive interface
+- Dynamic content
+
 🔗 **Live:** [Weather App](https://abdo1454.github.io/weather-app/)
 
 ---
 
 ### 🛒 Ecommerce Cart
 
-Functional e-commerce shopping cart implementing product management
-and complete cart operations.
+A functional e-commerce shopping cart implementing product management and complete cart operations.
 
 **Features:**
 
@@ -187,8 +200,7 @@ and complete cart operations.
 
 ### 📱 Social Media Dashboard
 
-Responsive social media dashboard featuring dark/light mode and
-dynamic JSON data handling.
+Responsive social media dashboard with dynamic JSON data and theme switching.
 
 **Features:**
 
@@ -196,7 +208,6 @@ dynamic JSON data handling.
 - Dark / Light mode
 - JSON data handling
 - Interactive UI
-- Responsive Design
 
 🔗 **Live:** [Social Media Dashboard](https://abdo1454.github.io/social-media-dashboard/)
 
@@ -204,8 +215,7 @@ dynamic JSON data handling.
 
 ### 🧮 Calculator App
 
-Interactive calculator application with multiple themes and a
-responsive interface.
+Interactive calculator application with multiple themes and a responsive interface.
 
 **Features:**
 
@@ -215,6 +225,35 @@ responsive interface.
 - Interactive UI
 
 🔗 **Live:** [Calculator App](https://abdo1454.github.io/calculator-app/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Abdo1454&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Abdulrahim Elsayed's GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdo1454&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Abdulrahim Elsayed's Most Used Languages"
+  />
+</p>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=Abdo1454&theme=tokyonight&hide_border=true"
+  alt="Abdo1454 GitHub Streak"
+/>
+
+</p>
 
 ---
 
@@ -234,19 +273,18 @@ responsive interface.
 ## 🎯 2026 Goals
 
 - 🚀 Become a stronger React Developer
-- 🧠 Master Data Structures & Algorithms
-- 💻 Build more production-ready projects
-- 🔥 Improve JavaScript fundamentals
+- 🧠 Improve Data Structures & Algorithms
+- 💻 Build more complete and real-world projects
+- 🔥 Strengthen JavaScript fundamentals
 - 🌐 Learn more about modern frontend architecture
-- 🤝 Start contributing to real-world projects
+- 🤝 Contribute to real-world and open-source projects
 - 💼 Prepare for professional frontend opportunities
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always interested in learning, building, and connecting with
-other developers.
+I'm always interested in learning, building, contributing, and connecting with other developers.
 
 <p align="center">
 
@@ -256,6 +294,10 @@ other developers.
 
 <a href="https://www.linkedin.com/in/abdulrhim-elsayed/">
 <img src="https://img.shields.io/badge/LinkedIn-Abdulrahim%20Elsayed-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://abulrahim-elsayed.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
