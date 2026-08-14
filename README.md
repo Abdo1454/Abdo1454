@@ -73,15 +73,7 @@ I enjoy turning ideas into clean interfaces, building reusable components, solvi
 
 </p>
 
-- HTML5
-- CSS3
-- JavaScript ES6+
-- React.js
-- React Router
-- Bootstrap
-- Tailwind CSS
-- Vite
-- Responsive Web Design
+
 
 ---
 
@@ -91,12 +83,7 @@ I enjoy turning ideas into clean interfaces, building reusable components, solvi
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Technologies"/>
 
-</p>
 
-- PHP
-- Laravel
-- MySQL
-- REST APIs
 
 ---
 
@@ -107,13 +94,21 @@ I enjoy turning ideas into clean interfaces, building reusable components, solvi
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 
 </p>
-
-- Git
-- GitHub
-- VS Code
-
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Abdo1454&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Abdulrahim Elsayed's GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdo1454&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Abdulrahim Elsayed's Most Used Languages"
+  />
+</p>
 ## 🚀 Featured Projects
 
 ### 🛍️ Atrak — Full-Stack E-Commerce Platform
@@ -228,20 +223,7 @@ Interactive calculator application with multiple themes and a responsive interfa
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Abdo1454&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="Abdulrahim Elsayed's GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdo1454&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="Abdulrahim Elsayed's Most Used Languages"
-  />
-</p>
 ---
 
 ## 🔥 GitHub Streak
