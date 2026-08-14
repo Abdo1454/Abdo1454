@@ -48,48 +48,27 @@ I enjoy turning ideas into clean interfaces, building reusable components, solvi
 
 ---
 
-## 💻 Tech Stack
+
 
 ### 🧠 Programming & Fundamentals
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,php" alt="Programming Languages"/>
-
-</p>
 
 - Object-Oriented Programming
 - Data Structures
 - Algorithms
 - Problem Solving
 
----
 
-### 🎨 Frontend Development
+<h2 align="center">💻 Tech Stack</h2>
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,bootstrap,tailwind,vite,php,laravel,mysql" alt="Tech Stack"/>
 
 </p>
 
-
-
 ---
-
-### ⚙️ Backend & APIs
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Technologies"/>
-
-
-
----
-
-### 🔧 Tools
-
-<p align="left">
+<h2 align="center">🔧 Tools</h2>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 
