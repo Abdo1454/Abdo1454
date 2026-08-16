@@ -74,7 +74,9 @@ I enjoy turning ideas into clean interfaces, building reusable components, solvi
 
 </p>
 ---
-## 📊 GitHub Stats
+<h2>
+   📊 GitHub Stats
+</h2>
 
 <p align="center">
   <img
@@ -88,7 +90,10 @@ I enjoy turning ideas into clean interfaces, building reusable components, solvi
     alt="Abdulrahim Elsayed's Most Used Languages"
   />
 </p>
-## 🚀 Featured Projects
+<h2>
+  🚀 Featured Projects
+</h2>
+ 
 
 ### 🛍️ Atrak — Full-Stack E-Commerce Platform
 
