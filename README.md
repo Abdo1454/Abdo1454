@@ -225,14 +225,7 @@ Interactive calculator application with multiple themes and a responsive interfa
 
 ## 📈 GitHub Activity
 
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdo1454&theme=tokyo-night&hide_border=true"
-  alt="Abdo1454 GitHub Activity Graph"
-/>
-
-</p>
+![Abdo1454 GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdo1454&theme=tokyo-night&hide_border=true)
 
 ---
 
